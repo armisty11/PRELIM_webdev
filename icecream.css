@@ -1,0 +1,75 @@
+#bg{
+	display: flex;
+	align-items: center;
+	background: red;
+	width: 800px;
+	height: 1000px;
+	padding: 12px;
+	border-radius: 20px;
+	box-sizing: border-box;	
+}
+
+#column1{
+	display: flex;
+	flex-direction: row;
+}
+				
+#photo1{
+	width: 150px;
+	height: 500px;
+	background-image: url("miming6.jpg");
+	background-repeat: no-repeat;
+	background-position-x: 20%;
+	background-position-y: 70%;
+	background-size: 150px 500px;
+               margin: 10px;
+}
+
+#photo2{
+	width: 150px;
+	height: 250px;
+	background-image: url("miming3.jpg");
+	background-repeat: no-repeat;
+	background-position-x: 25%;
+	background-position-y: 50%;
+	background-size: 150px 250px;
+	margin: 10px;
+}
+
+#photo3{
+	width: 150px;
+	height: 250px;
+	background-image: url("miming2.jpg");
+	background-repeat: no-repeat;
+	background-position-x: 25%;
+	background-position-y: 50%;
+	background-size: 150px 250px;
+	margin: 10px;
+}
+
+#photo4{
+	width: 150px;
+	height: 250px;
+	background-image: url("miming6.jpg");
+	background-repeat: no-repeat;
+	background-position-x: 25%;
+	background-position-y: 50%;
+	background-size: 150px 250px;
+	margin: 10px;
+}
+
+#photo5{
+	width: 400px;
+	height: 250px;
+	background-color: pink;
+	background-image: url("miming4.jpg");
+	background-repeat: no-repeat;
+	background-position-x: 25%;
+	background-position-y: 50%;
+	background-size: 400px 250px;
+	margin: 10px;
+}
+
+		
+
+

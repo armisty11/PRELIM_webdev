@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>ito ay title</title>
+		 <link rel="stylesheet" href="icecream.css">
+	</head>
+
